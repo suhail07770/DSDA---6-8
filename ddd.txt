@@ -1,3 +1,0 @@
-print("hello");
-print("Welcome");
-print("this is third edit");
